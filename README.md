@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
+# WebExtension
 
-<!--
-**WebExtension1/WebExtension1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Portfolio](https://www.webextension.co.uk)
 
-Here are some ideas to get you started:
+## Repositories
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Name | Description |
+|------|-------------|
+| [StockHive](https://github.com/stockhive-uni/stockhiveapp) | Description |
+| [Theme Park Tracker](https://github.com/WebExtension1/Theme-Park-Tracker) | Description |
+| [Performance Tracker](https://github.com/WebExtension1/PerformanceTracker) | Description |
+| [Gig Tracker](https://github.com/WebExtension1/GigTracker) | Description |
+| [Task Management](https://github.com/WebExtension1/TaskManagement) | Description |
+| [Cluedo](https://github.com/WebExtension1/Cluedo) | Description |
+[ [Cantor College](https://github.com/WebExtension1/CantorCollege) | Description |
+## Activity
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=webextension1&theme=github_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=webextension1&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=webextension1&theme=github_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=webextension1&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=webextension1&theme=github_dark&utcOffset=8)
+
+</div>
