@@ -1,6 +1,6 @@
 <div align="center">
   
-## WebExtension
+# WebExtension
 
 [Portfolio](https://www.webextension.co.uk)
 
