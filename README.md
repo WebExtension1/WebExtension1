@@ -13,7 +13,7 @@
 | [Concert Tracker](https://github.com/WebExtension1/GigTracker) | Similar to my Theme Park Tracker, this uses a database-like file structure to track Concerts, generating stats for Bands, Songs, Albums, and Venues. |
 | [Task Management](https://github.com/WebExtension1/TaskManagement) | A simple task management system that allows for collaborative work with features like comments and task ownership. |
 | [Cluedo](https://github.com/WebExtension1/Cluedo) | Built for my college NEA, this version of Cluedo has difficulty based AI opponents. Includes an answer sheet and save/load games. |
-[ [Cantor College](https://github.com/WebExtension1/CantorCollege) | The first multi-page website I built, this is a simple html site that displays information about courses and facilities in Cantor College. |
+| [Cantor College](https://github.com/WebExtension1/CantorCollege) | The first multi-page website I built, this is a simple html site that displays information about courses and facilities in Cantor College. |
 ## Activity
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=webextension1&theme=github_dark)
