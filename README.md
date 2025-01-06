@@ -7,6 +7,7 @@
 | Name | Description |
 |------|-------------|
 | [StockHive](https://github.com/stockhive-uni/stockhiveapp) | A simple Inventory Management System that can order and sell items, move stock, and generate reports and invoices. |
+| [Calorie Tracker](https://github.com/WebExtension1/CalorieTracker) | A simple Calorie Tracker, my first Next.js app. I learnt many skills during this, such as Static Sites, JavaScript, TypeScript, APIs, Environmental Variables, MSSQL, Tailwind, and more. |
 | [Theme Park Tracker](https://github.com/WebExtension1/Theme-Park-Tracker) | Using a database-like file structure, this app can track Theme Park visits and generate interesting stats about Theme Parks, Attractions, and Manufacturers. Includes Social features, such as multiple accounts and a Feed tab, displaying other users activity. |
 | [Concert Tracker](https://github.com/WebExtension1/GigTracker) | Similar to my Theme Park Tracker, this uses a database-like file structure to track Concerts, generating stats for Bands, Songs, Albums, and Venues. |
 | [Task Management](https://github.com/WebExtension1/TaskManagement) | A simple task management system that allows for collaborative work with features like comments and task ownership. |
